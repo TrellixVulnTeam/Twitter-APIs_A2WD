@@ -22,3 +22,7 @@ Basic features of the Twitter API
 
 In addition to the REST API, the public Twitter API has an API for streaming that provides access to a high volume of tweets with low latency. 
 Most developers mix and combine both APIs to generate their own application.
+
+For you to do carry out any of the tasks in this project, you require a Twitter Developer Account.
+
+Note: Twitter Terms and Conditions must be applied.
