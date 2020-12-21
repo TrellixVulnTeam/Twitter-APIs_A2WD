@@ -19,3 +19,6 @@ Basic features of the Twitter API
 ●      The API is based on HTTP (over SSL), so the processes that require a specific HTTP method will return an error if the request is not correct.
 
 ●      There are specific parameters for requests to the API, generated paging and library restrictions to adapt API operation to this social network.
+
+In addition to the REST API, the public Twitter API has an API for streaming that provides access to a high volume of tweets with low latency. 
+Most developers mix and combine both APIs to generate their own application.
